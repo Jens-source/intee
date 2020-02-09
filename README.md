@@ -5,7 +5,7 @@ Intee is a social media application used between interior designers to share the
 ## Framework and design
   * **Color scheme**\
     Paletton is an online application located on the internet at Paletton.com. It provides powerfull tool to create color combinations and palettes of colors that work together well. The major advantage of Paletton is it's not using the modern computer and engineering RGB color space, but it's built on a classical artistic color wheel, applies classical color theory and works within a specially created RYB color space. Therefore the color combinations it produces are very different from those you can get in many computer graphic applications.\
-    <img src="readme/paletton.png" >
+    <img src="readme/paletton.png" width="300" >
 
   * **Minimize Cognitive Load**\
 Cognitive load refers here to the amount of brain power required to use the app. The human brain has a limited amount of     processing power, and when an app provides too much information at once, it might overwhelm the user and make them abandon the task.
