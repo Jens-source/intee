@@ -1,6 +1,6 @@
-# flutter_app43221
+# Intee
 
-A new Flutter application.
+Intee is a social media application used between interior designers to share their ideas and colaborate on projects.
 
 ## Getting Started
 
