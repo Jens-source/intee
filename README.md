@@ -10,12 +10,16 @@ Intee is a social media application used between interior designers to share the
   * **Minimize Cognitive Load**\
 Cognitive load refers here to the amount of brain power required to use the app. The human brain has a limited amount of     processing power, and when an app provides too much information at once, it might overwhelm the user and make them abandon the task.
   * **Visual consistency**\
-  Consistency is a fundamental principle of UX design. When things work in the way users predict, they feel a stronger sense of control. Unlike on desktop, where users can use hover effects to understand whether something is interactive or not, on mobile, users can check interactivity only by tapping on an element. That’s why, with buttons and other interactive elements, it’s essential to think about how the design communicates affordance.
+  Consistency is a fundamental principle of UX design. When things work in the way users predict, they feel a stronger sense of control. Unlike on desktop, where users can use hover effects to understand whether something is interactive or not, on mobile, users can check interactivity only by tapping on an element. That’s why, with buttons and other interactive elements, it’s essential to think about how the design communicates affordance.\
+
 ## Funtionality
-   <img src="readme/Chat.gif" width="200" >
-## Authenticatioon protocol
-## Storage management and CRUD functions
-## Architecture and technologies
+   <img src="readme/Chat.gif" width="200" >\
+
+## Authenticatioon protocol\
+
+## Storage management and CRUD functions\
+
+## Architecture and technologies\
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
