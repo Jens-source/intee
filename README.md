@@ -11,7 +11,7 @@ Cognitive load refers here to the amount of brain power required to use the app.
   * **Visual consistency**\
   Consistency is a fundamental principle of UX design. When things work in the way users predict, they feel a stronger sense of control. Unlike on desktop, where users can use hover effects to understand whether something is interactive or not, on mobile, users can check interactivity only by tapping on an element. That’s why, with buttons and other interactive elements, it’s essential to think about how the design communicates affordance.
 ## Funtionality
-
+ ![](readme/Chat.gif)
 ## Authenticatioon protocol
 ## Storage management and CRUD functions
 ## Architecture and technologies
