@@ -2,8 +2,13 @@
 
 Intee is a social media application used between interior designers to share their ideas and colaborate on projects.
 
-## Getting Started
+## Framework and design
+  * hello
+## Funtionality
 
+## Authenticatioon protocol
+## Storage management and CRUD functions
+## Architecture and technologies
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
