@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "108053416698",
+    "firebase_url": "https://interi.firebaseio.com",
+    "project_id": "interi",
+    "storage_bucket": "interi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108053416698:android:e8b41c756df0b354805743",
+        "android_client_info": {
+          "package_name": "a12312com.intee.flutter_app43221"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108053416698-b852padnsosegq30jkd122mpuli3oldk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "a12312com.intee.flutter_app43221",
+            "certificate_hash": "8ea5e9dffbb8f730bc873671b14252828bd11443"
+          }
+        },
+        {
+          "client_id": "108053416698-e8nodq8v8drc246fsbm52gog15kpc4tl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmOXcjBx7J4lbafSSmrdSc5dL0WG1p20w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108053416698-e8nodq8v8drc246fsbm52gog15kpc4tl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
