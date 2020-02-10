@@ -13,7 +13,7 @@ Cognitive load refers here to the amount of brain power required to use the app.
   Consistency is a fundamental principle of UX design. When things work in the way users predict, they feel a stronger sense of control. Unlike on desktop, where users can use hover effects to understand whether something is interactive or not, on mobile, users can check interactivity only by tapping on an element. That’s why, with buttons and other interactive elements, it’s essential to think about how the design communicates affordance.\
 
 ## **Funtionality** 
-  * Intee is a social media aplication used by interior designers and also clients who would like to find a potential designer for their home or business. You could use it to post and show off a cenrtain project, aswell as ask your friends input. The GUI apllication is built using Flutter and the database with Firebase.\
+  * Intee is a social media aplication used by interior designers and also clients who would like to find a potential designer for their home or business. You could use it to post and show off a cenrtain project, aswell as ask your friends input. The GUI apllication is built using Flutter and the database with Firebase.
   <img src="readme/library.gif" width="200" > 
   * The library page where all your posts, and projects are stored.\
   
