@@ -12,10 +12,16 @@ Cognitive load refers here to the amount of brain power required to use the app.
   * **Visual consistency**\
   Consistency is a fundamental principle of UX design. When things work in the way users predict, they feel a stronger sense of control. Unlike on desktop, where users can use hover effects to understand whether something is interactive or not, on mobile, users can check interactivity only by tapping on an element. That’s why, with buttons and other interactive elements, it’s essential to think about how the design communicates affordance.\
 
-## **Funtionality** \
-
+## **Funtionality** 
+  Intee is a social media aplication used by interior designers and also clients who would like to find a potential designer for their home or business. You could use it to post and show off a cenrtain project, aswell as ask your friends input. The GUI apllication is built using Flutter and the database with Firebase. \
   The library page where all your posts, and projects are stored. \
-  <img src="readme/library.gif" width="200" >
+  <img src="readme/library.gif" width="200" > \ 
+  The chat page where you could add friends and talk with them. \ 
+  <img src="readme/Chat.gif" width="200" > \
+  The personal information page where you could use it to send to potential clients. \
+  <img src="readme/info.gif" width="200" > \ 
+  This page alows you colaborate with friends and gives them controll to make changes or spot some mistake. \ 
+  <img src="readme/edit.gif" width="200" >
 
 ## **Authentication protocol**
 *
@@ -25,13 +31,3 @@ Cognitive load refers here to the amount of brain power required to use the app.
 
 ## **Architecture and technologies**
 *
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
