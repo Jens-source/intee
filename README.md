@@ -48,6 +48,6 @@ Cloud Firestore is a flexible, scalable database for mobile, web, and server dev
 
 ## **Architecture and technologies**
 This project is implemented using the following technologies:
-* FLutter
+* Flutter
 * Firebase API
 * Firestore
