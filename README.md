@@ -16,17 +16,15 @@ Cognitive load refers here to the amount of brain power required to use the app.
   * Intee is a social media aplication used by interior designers and also clients who would like to find a potential designer for their home or business. You could use it to post and show off a cenrtain project, aswell as ask your friends input. The GUI apllication is built using Flutter and the database with Firebase.
   <img src="readme/library.gif" width="200" > 
   
-  * The library page where all your posts, and projects are stored.
-  
-  The chat page where you could add friends and talk with them. 
+  The library page where all your posts, and projects are stored. The chat page where you could add friends and talk with them. 
   
   <img src="readme/Chat.gif" width="200" >
   
-  * The personal information page where you could use it to send to potential clients. 
+  The personal information page where you could use it to send to potential clients. 
   
   <img src="readme/info.gif" width="200" >  
   
-  * This page alows you colaborate with friends and gives them controll to make changes or spot some mistake.
+  This page alows you colaborate with friends and gives them controll to make changes or spot some mistake.
   
   <img src="readme/edit.gif" width="200" >
 
