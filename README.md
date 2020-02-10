@@ -17,10 +17,12 @@ Cognitive load refers here to the amount of brain power required to use the app.
   The library page where all your posts, and projects are stored. \
   <img src="readme/library.gif" width="200" >
 
-## **Authenticatioon protocol**
+## **Authentication protocol**
 *
 ## **Storage management and CRUD functions**
 *
+ <img src="readme/firebase.gif" >
+
 ## **Architecture and technologies**
 *
 This project is a starting point for a Flutter application.
