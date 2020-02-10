@@ -29,7 +29,11 @@ Cognitive load refers here to the amount of brain power required to use the app.
   <img src="readme/edit.gif" width="200" >
 
 ## **Authentication protocol**
-*
+* **Drop-in authentication solution** 
+
+FirebaseUI provides a drop-in auth solution that handles the UI flows for signing in users with email addresses and passwords, phone numbers, and with popular federated identity providers, including Google Sign-In and Facebook Login.
+
+The FirebaseUI Auth component implements best practices for authentication on mobile devices and websites, which can maximize sign-in and sign-up conversion for your app. It also handles edge cases like account recovery and account linking that can be security sensitive and error-prone to handle correctly.
 ## **Storage management and CRUD functions**
 *
 
